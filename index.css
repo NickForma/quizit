@@ -1,0 +1,17 @@
+.question {
+  font-weight: bold;
+}
+
+.button {
+  color: blueviolet;
+  border-radius: 4px;
+}
+
+.box {
+  border: 2px dashed darkblue;
+  text-align: center;
+}
+
+#answers {
+  margin-right: 10px !important;
+}
